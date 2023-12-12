@@ -1,0 +1,319 @@
+
+.item {
+  width: 250px;
+  position: relative;
+}
+
+.item2 {
+  width: 250px;
+}
+
+.item2 h5 {
+  font-weight: 700;
+}
+
+.item2 p {
+  color: gray;
+}
+
+.cardicon {
+  font-size: 25px;
+  color: #fff;
+  /* padding-bottom: 5px; */
+  border-radius: 50%;
+  background-color: rgb(72, 72, 244);
+  width: 54px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: -20%;
+  transform: translateX(-50%);
+
+}
+
+.top_navbar {
+  background-color: blue;
+
+  margin-bottom: 10px;
+}
+
+.navbar-brand {
+  font-size: 180%;
+  font-weight: 660;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.nv {
+  display: flex;
+  padding-right: 50px;
+  font-size: 110%;
+  font-weight: 500;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.nv2 {
+
+  display: flex;
+  align-items: center;
+  font-size: 110%;
+  font-weight: 500;
+}
+
+.header {
+  background-image: url("../imgs/hero-bg.jpg");
+  height: 500px;
+  display: flex;
+  align-items: center;
+  filter: opacity(80%);
+  margin-bottom: 100px;
+}
+
+
+.text-header {
+  color: blue;
+}
+
+.about {
+  background-color: rgb(237, 234, 234);
+  margin-bottom: 100px;
+}
+
+.det {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.det p {
+  width: 500px;
+  text-align: center;
+
+}
+
+
+.circle-icon {
+  color: blue;
+  font-weight: 700;
+  background: #ffffff;
+  width: 50px;
+  height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 100px;
+  vertical-align: middle;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grey {
+  color: grey;
+}
+
+.wcol {
+  width: 250px;
+}
+
+.logos {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(237, 234, 234);
+  margin-bottom: 50px;
+
+}
+
+.cardicon2 {
+  background-color: rgb(237, 234, 234);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 10%;
+}
+
+.cardicon2 i {
+
+  font-size: 30px;
+
+
+}
+
+.card {
+  height: 300px;
+}
+
+.btn {
+  border: white;
+
+  font-weight: 600;
+}
+
+.det2 {
+  margin-top: 50px;
+  margin-bottom: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.det2 p {
+  width: 500px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.teams {
+  background-color: rgb(237, 234, 234);
+}
+
+.upc {
+  vertical-align: super;
+  font-size: medium;
+  font-weight: 700;
+}
+
+.per {
+  font-size: 150%;
+  font-weight: 700;
+}
+
+.asks {
+  background-color: rgb(237, 234, 234);
+  margin-top: 200px;
+}
+
+.circle-icon2 {
+  color: blue;
+  font-weight: 400;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 100px;
+  vertical-align: middle;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-color: black;
+  border-style: dotted;
+  border-width: thin;
+
+}
+
+.iconcont p {
+  font-size: small;
+}
+
+.map-container {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-container iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+
+.accordion-button {
+  background-color: transparent;
+}
+
+.accordion-item {
+  background-color: transparent;
+}
+
+.collapsed {
+  background-color: transparent;
+}
+
+.link-primary {
+  color: rgb(162, 162, 162) !important;
+  text-decoration: solid;
+  line-height: 40px;
+}
+
+.footer1 {
+  width: 200px;
+  margin-right: 0px;
+}
+
+.footer1 p {
+  color: rgb(162, 162, 162) !important;
+  text-decoration: solid;
+  line-height: 25px;
+  font-weight: 400;
+}
+
+.footer4 p {
+  color: rgb(162, 162, 162) !important;
+  text-decoration: solid;
+  line-height: 25px;
+  width: 350px;
+  font-weight: 400;
+
+}
+
+.fi {
+  color: #fff;
+
+}
+
+.lastfooter {
+  background-color: rgb(237, 234, 234);
+  height: 75px;
+  font-weight: bold;
+}
+
+.newsletter {
+  background-color: rgb(237, 234, 234);
+}
+
+.lf1,
+.lf {
+  color: rgb(162, 162, 162);
+  font-weight: 400;
+}
+
+.carousel {
+  margin-top: 300px;
+}
+
+.d-block {
+  height: 600px;
+  filter: contrast(80%);
+}
+
+.fw {
+  font-weight: 700 !important;
+}
+
+.link-primary {
+  font-weight: 400 !important;
+}
+
+.body {
+  font-weight: 400 !important;
+}
